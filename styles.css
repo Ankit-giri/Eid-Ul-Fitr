@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  color: #f05945;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5em;
+  margin-top: 0;
+  padding-top: 2%;
+}
+
+/* thi h2 font is for footer */
+h2 {
+  color: #a6d6d6;
+  font-family: 'Merienda One', cursive;
+  font-size: 1em;
+}
+
+/* it's Arabic Font */
+h3 {
+  color: #a6d6d6;
+  font-family: 'Tajawal', sans-serif;
+  font-size: 2.5em;
+}
+
+/* it's Urdu Font */
+h4 {
+  font-size: 2.5em;
+  color: #1f441e;
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+h5 {
+  color: #a6d6d6;
+  font-family: 'Amita', cursive;
+  font-size: 2em;
+}
+
+h6 {
+  color: #000000;
+  font-family: 'Merienda One', cursive;
+  font-size: 2em;
+}
+
+.firstcontainer {
+  position: relative;
+  background-color: #FFFFFF;
+  padding: 5%;
+  text-align: center;
+}
+
+.secondcontainer {
+  position: relative;
+  background-color: #98ddca;
+  padding: 10%;
+  text-align: center;
+}
+
+.img2 {
+  width: 80%;
+}
+
+.thirdcontainer {
+  position: relative;
+  background-color: #FFFFFF;
+  padding: 10%;
+  text-align: center;
+}
+
+.img3 {
+  width: 120%;
+}
+
+.fourthcontainer {
+  position: relative;
+  background-color: #81b214;
+  padding: 10%;
+  text-align: center;
+}
+
+.img4 {
+  width: 70%;
+}
+
+footer {
+  text-align: center;
+  background-color: #a6d6d6;
+  padding: 1%;
+}
